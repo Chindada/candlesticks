@@ -19,10 +19,10 @@ class DarkColorPalette {
 class LightColorPalette {
   static const grayColor = Color(0xFF848E9C);
   static const background = Color(0xFFFAFAFA);
-  static const primaryGreen = Color(0xFF026A69A);
-  static const secondaryGreen = Color(0xFF8CCCC6);
-  static const primaryRed = Color(0xFFEF5350);
-  static const secondaryRed = Color(0xFFF1A3A1);
+  static const primaryRed = Color(0xFF026A69A);
+  static const secondaryRed = Color(0xFF8CCCC6);
+  static const primaryGreen = Color(0xFFEF5350);
+  static const secondaryGreen = Color(0xFFF1A3A1);
   static const digalogColor = Color(0xFFFFFFFF);
   static const hoverIndicatorBackgroundColor = Color(0xFF131722);
   static const lightGold = Color(0xFF494537);
