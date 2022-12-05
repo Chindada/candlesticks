@@ -18,8 +18,7 @@ class DarkColorPalette {
 
 class LightColorPalette {
   static const grayColor = Color(0xFF848E9C);
-  // static const background = Color(0xFFFAFAFA);
-  static const background = Colors.white;
+  static const background = Color(0xFFFAFAFA);
   static const primaryRed = Colors.green;
   static const secondaryRed = Colors.green;
   static const primaryGreen = Colors.red;
